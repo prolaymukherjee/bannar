@@ -1,0 +1,21 @@
+.{margin: 0;padding:0}
+body{ font-family:"Arial Black", Gadget, sans-serif;}
+.main{
+	width:700px;
+	margin:0 auto;
+	
+	}
+.header{}
+.header img{ width:700px; height:auto;}
+.mainmenu{	background:red; overflow:hidden; margin-bottom:20px;}
+.mainmenu ul{ list-style:none;}
+.mainmenu ul li{ float:left;}
+.mainmenu ul li a{ color:#fff; margin:10px; display:block; text-decoration:none;}
+.mainmenu ul li a:hover{ background:#000;}
+.maincontent{ overflow:hidden;}
+.content{ width:430px; float:left;}
+.sidebar{ float:right; width:250px; margin-left:20px;}
+.sidebar ul{ list-style:none;}
+.sidebar ul li a{  text-decoration:none;}
+.sidebar ul li a:hover{ background:#F0F;}
+.Footer{ background:red; color:#FFF; padding:10px; text-align:center;}
